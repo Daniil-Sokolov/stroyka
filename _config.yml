@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Your awesome title
-logo: /stroyka/assets/images/Logo5.svg
+logo: /stroyka/assets/images/Logo5.png
 
 email: your-email@example.com
 
