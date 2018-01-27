@@ -11,10 +11,10 @@
 
 @media (max-width: 768px) {
   .mbr-gallery .mbr-gallery-item {
-    width: 25%; } }
+    width: 50%; } }
 @media (max-width: 400px) {
   .mbr-gallery .mbr-gallery-item {
-    width: 25%; } }
+    width: 100%; } }
 .mbr-gallery .icon-focus,
 .mbr-gallery .icon-video {
   position: absolute;
