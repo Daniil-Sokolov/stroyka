@@ -13,9 +13,9 @@ $(document).on('ready pjax:end', function(event) {
 
 $(document).ready(function() { 
 
-   $.getScript('/assets/ytplayer/jquery.mb.ytplayer.min.js');
+   $.getScript('/stroyka/assets/ytplayer/jquery.mb.ytplayer.min.js');
 
-   $.getScript('/assets/theme/js/script.js');
+   $.getScript('/stroyka/assets/theme/js/script.js');
 
 })
 
